@@ -11,7 +11,7 @@
 
 Пользователи разбиты на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми. 
 
-**Используемые библиотеки**: pandas, numpy, seaborn, matplotlib, plotly, math, scipy. 
+**Используемые библиотеки**: pandas, numpy, seaborn, , sweetviz, matplotlib, plotly, math, scipy. 
 
 **Описание данных:** 
 
