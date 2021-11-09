@@ -1,4 +1,4 @@
-# Events analytics
+# Event analytics
 **Collecting project_2**
 
 
