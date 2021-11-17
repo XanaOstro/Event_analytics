@@ -2,27 +2,26 @@
 **Collecting project_2**
 
 
-**Цели и задачи проекта:**
+**Goals and objectives of the project**:
 
-1. Необходимо проанализировать поведение пользоватей мобильного приложения.
-Изучить воронку продаж и узнать, как и сколько пользователей доходит до покупки. 
+It is necessary to analyze users behavior in the mobile application. Examine the sales funnel and find out how and how many users make a purchase.
 
-2. Исследовать результаты A/A/B-эксперимента, чтобы понять, стоит ли менять шрифты в приложении. 
+Explore the results of an A / A / B experiment to see if it is worth changing the fonts in the application.
 
-Пользователи разбиты на 3 группы: 2 контрольные со старыми шрифтами и одну экспериментальную — с новыми. 
+Users are divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones.
 
-**Используемые библиотеки**: pandas, numpy, seaborn, , sweetviz, matplotlib, plotly, math, scipy. 
+**Libraries used**: pandas, numpy, seaborn,, sweetviz, matplotlib, plotly, math, scipy.
 
-**Описание данных:** 
+**Data Description**:
 
-Каждая запись в логе — это действие пользователя, или событие.
+Each entry in the log is a user action or event.
 
-EventName — название события;
+EventName - the name of the event;
 
-DeviceIDHash — уникальный идентификатор пользователя;
+DeviceIDHash - unique user identifier;
 
-EventTimestamp — время события;
+EventTimestamp - event time;
 
-ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+ExpId - experiment number: 246 and 247 - control groups, and 248 - experimental.
 
-**Данные предоставлены**: Practicum by Yandex
+**Data provided by**: Practicum by Yandex
