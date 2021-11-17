@@ -1,6 +1,7 @@
 # Event analytics
 **Collecting project_2**
 
+Reposiitory contains both Russian ang English versions.
 
 **Goals and objectives of the project**:
 
