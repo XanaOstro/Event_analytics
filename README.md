@@ -11,7 +11,8 @@ Explore the results of an A / A / B experiment to see if it is worth changing th
 
 Users are divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones.
 
-## Libraries: pandas, numpy, seaborn,, sweetviz, matplotlib, plotly, math, scipy.
+## Libraries: 
+pandas, numpy, seaborn,, sweetviz, matplotlib, plotly, math, scipy.
 
 ## Conclusions:
 
