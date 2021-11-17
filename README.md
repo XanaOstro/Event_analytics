@@ -1,5 +1,5 @@
 # Event analytics
-## Collecting project_2
+## Collecting project_2. Exploration the results of an A / A / B experiment.
 
 Reposiitory contains both Russian ang English versions.
 
