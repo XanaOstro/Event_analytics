@@ -3,7 +3,7 @@
 
 Reposiitory contains both Russian ang English versions.
 
-## Goals and objectives of the project:
+## Project goals:
 
 It is necessary to analyze users behavior in the mobile application. Examine the sales funnel and find out how and how many users make a purchase.
 
